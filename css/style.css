@@ -209,6 +209,14 @@ footer{
         padding-bottom: 20px;
     }
 
+    #branding{
+        font-size: 0.8rem;
+    }
+
+    header li{
+        padding: 0 10px;
+    }
+
     #showcase h1{
         margin-top: 40px;
     }
